@@ -1,0 +1,6 @@
+account_id,customer_name,account_type,status,opening_balance
+A101,John,SAVINGS,ACTIVE,20000
+A102,Jane,SAVINGS,ACTIVE,15000
+A103,Alice,CURRENT,ACTIVE,50000
+A104,David,SAVINGS,ACTIVE,10000
+A105,Robert,CURRENT,INACTIVE,25000

@@ -1,0 +1,28 @@
+# Python virtual environments
+venv/
+venv-linux/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Pytest
+.pytest_cache/
+
+# Spark checkpoints and generated output
+checkpoints/
+storage/
+spark-warehouse/
+
+# Logs and temporary files
+logs/
+*.log
+.DS_Store
+
+# Environment variables and secrets
+.env
+
+# Streaming test input files
+data/streaming/transactions/*.csv
